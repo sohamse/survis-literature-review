@@ -107,11 +107,11 @@
         "year": "2022"
     },
     "xu2023evolutionary": {
-        "author": "Xu, Y. and Han, Y. and Liu, T. and others",
+        "author": "Xu, Y. and Ma, Y.",
         "doi": "10.1038/s41598-023-42931-3",
         "journal": "Scientific Reports",
         "keywords": "evolutionary-algorithm, neural-architecture-search, convnet, transformer, deep-learning",
-        "pages": "15777",
+        "pages": "15791",
         "series": "Evolutionary Neural Architecture Search",
         "title": "Evolutionary neural architecture search combining multi-branch ConvNet and improved transformer",
         "type": "article",
