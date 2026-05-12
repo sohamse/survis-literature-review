@@ -7,7 +7,7 @@
         "pages": "5888",
         "series": "Swarm Intelligence Application",
         "title": "HDL-ACO hybrid deep learning and ant colony optimization for ocular optical coherence tomography image classification",
-        "type": "article journal-article",
+        "type": "article",
         "url": "https://doi.org/10.1038/s41598-025-89961-7",
         "volume": "15",
         "year": "2025"
@@ -20,7 +20,7 @@
         "pages": "829--894",
         "series": "Survey / Foundation",
         "title": "A comprehensive survey on optimizing deep learning models by metaheuristics",
-        "type": "article journal-article",
+        "type": "article",
         "url": "https://doi.org/10.1007/s10462-021-09992-0",
         "volume": "55",
         "year": "2022"
@@ -34,7 +34,7 @@
         "pages": "421",
         "series": "Evolutionary Neural Architecture Search",
         "title": "An efficient evolutionary neural architecture search algorithm without training",
-        "type": "article journal-article",
+        "type": "article",
         "url": "https://doi.org/10.3390/biomimetics10070421",
         "volume": "10",
         "year": "2025"
@@ -47,7 +47,7 @@
         "pages": "105623",
         "series": "Evolutionary Neural Architecture Search",
         "title": "Learning deep neural networks' architectures using differential evolution. Case study: medical imaging processing",
-        "type": "article journal-article",
+        "type": "article",
         "url": "https://doi.org/10.1016/j.compbiomed.2022.105623",
         "volume": "146",
         "year": "2022"
@@ -61,7 +61,7 @@
         "pages": "e1484",
         "series": "Survey / Foundation",
         "title": "Hyperparameter optimization: foundations, algorithms, best practices, and open challenges",
-        "type": "article journal-article",
+        "type": "article",
         "url": "https://doi.org/10.1002/widm.1484",
         "volume": "13",
         "year": "2023"
@@ -74,7 +74,7 @@
         "pages": "4519--4622",
         "series": "Survey / Foundation",
         "title": "Application of meta-heuristic algorithms for training neural networks and deep learning architectures: a comprehensive review",
-        "type": "article journal-article",
+        "type": "article",
         "url": "https://doi.org/10.1007/s11063-022-11055-6",
         "volume": "55",
         "year": "2023"
@@ -88,7 +88,7 @@
         "pages": "550--569",
         "series": "Survey / Foundation",
         "title": "A survey on evolutionary neural architecture search",
-        "type": "article journal-article",
+        "type": "article",
         "url": "https://doi.org/10.1109/TNNLS.2021.3100554",
         "volume": "34",
         "year": "2023"
@@ -101,7 +101,7 @@
         "pages": "101191",
         "series": "Evolutionary Neural Architecture Search",
         "title": "A new genetic algorithm based evolutionary neural architecture search for image classification",
-        "type": "article journal-article",
+        "type": "article",
         "url": "https://doi.org/10.1016/j.swevo.2022.101191",
         "volume": "75",
         "year": "2022"
@@ -114,7 +114,7 @@
         "pages": "15777",
         "series": "Evolutionary Neural Architecture Search",
         "title": "Evolutionary neural architecture search combining multi-branch ConvNet and improved transformer",
-        "type": "article journal-article",
+        "type": "article",
         "url": "https://doi.org/10.1038/s41598-023-42931-3",
         "volume": "13",
         "year": "2023"
@@ -128,7 +128,7 @@
         "pages": "e0316253",
         "series": "Swarm Intelligence Application",
         "title": "A novel deep learning-based framework with particle swarm optimisation for intrusion detection in computer networks",
-        "type": "article journal-article",
+        "type": "article",
         "url": "https://doi.org/10.1371/journal.pone.0316253",
         "volume": "20",
         "year": "2025"
